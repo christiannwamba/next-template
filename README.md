@@ -2,7 +2,11 @@ This is my template for setting a Nextjs project. Use this for JavaScript projec
 
 ## How to
 
-1. Clone
+1. Setup
+    > Create an alias for this
+    ```sh
+    npx create-next-app <PROJECT_NAME> -e https://github.com/christiannwamba/next-template
+    ```
 2. Install dependencies
     ```sh
     npm install
